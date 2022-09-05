@@ -1,0 +1,24 @@
+{
+	"analysis.experimental.gratuitousFunctionUpdate" : true,
+	"analysis.experimental.parseDebugInfo" : true,
+	"analysis.limits.workerThreadCount" : 32,
+	"analysis.linearSweep.detailedLogInfo" : true,
+	"analysis.types.TemplateSimplifier" : true,
+	"analysis.types.parserName" : "ClangTypeParser",
+	"analysis.unicode.blocks" : 
+	[
+		"Adlam",
+		"Arabic"
+	],
+	"corePlugins.debugger" : true,
+	"python_debugger.extra_annotations" : true,
+	"rendering.hlil.scopingStyle" : "braces",
+	"rendering.strings.maxAnnotationLength" : 32,
+	"ui.files.navigation.mainSymbols" : 
+	[
+		"WinMain",
+		"_main",
+		"main"
+	],
+	"ui.theme.name" : "Reflection"
+}
